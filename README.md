@@ -24,7 +24,7 @@ In order to get valid sub-alignments, we removed the alignment columns that cont
 
 ### Results
 
-The finally subsets that we selected contain 15, 30, 60 and 122 sequences respectively.
+The final subsets that we selected contain 15, 30, 60 and 122 sequences respectively.
 The larger ones always include all protein sequences from the smaller subsets and extend 
 them further.
 ![Subsets containing each other](img/subsets.png?raw=true)
